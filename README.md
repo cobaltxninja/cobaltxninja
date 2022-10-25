@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @cobaltxninja
+- 👀 I’m interested in web application and active directory testing!
+- 🌱 I’m currently learning all things pen testing
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
